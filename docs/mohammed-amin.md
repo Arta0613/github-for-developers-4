@@ -2,4 +2,4 @@
 
 **Name:** Github Student
 
-**Favorite color:** Piluey
+**Favorite color:** Pilueyo
